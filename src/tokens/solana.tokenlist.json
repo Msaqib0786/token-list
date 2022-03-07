@@ -125964,6 +125964,19 @@
       "name": "Le Bel Anus Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLAyTCh9AqPFYPNiYpHYo8nAPMqgbV4MTduLcg5kHdh/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2TocBpcDms9xWB9oGBo1Pek3bZDhbBtFRNUkSYbQ9N5P",
+      "symbol": "TRS",
+      "name": "TruSwap",
+      "decimals": 0,
+      "logoURI": "https://github.com/Msaqib0786/logo.png/blob/main/logo.png",
+      "tags": [
+        "community-token",
+        "meme-token",
+        "MetaVerse"
+      ]
     }
   ],
   "version": {
