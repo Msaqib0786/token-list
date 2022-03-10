@@ -1,0 +1,23 @@
+pull_request_rules: Change TruSwap token logo.png
+  - name: TRS
+    conditions: Chnage logo TruSwap token
+      - "#approved-reviews-by>=1"
+    actions: https://github.com/Msaqib0786/logo.png/blob/main/logo.png
+      merge: merge
+        method: merge
+
+Now my new 
+
+{
+      "chainId": 101,
+      "address": "2TocBpcDms9xWB9oGBo1Pek3bZDhbBtFRNUkSYbQ9N5P",
+      "symbol": "TRS",
+      "name": "TruSwap",
+      "decimals": 0,
+      "logoURI": "https://github.com/Msaqib0786/logo.png/blob/main/logo.png",
+      "tags": [
+        "community-token",
+        "meme-token",
+        "MetaVerse"
+      ]
+    },
